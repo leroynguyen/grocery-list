@@ -1,5 +1,5 @@
 ### Groceries
 
-- [ ] Bread
+- [x] Bread
 - [x] Sour Cream
 - [x] Onions
